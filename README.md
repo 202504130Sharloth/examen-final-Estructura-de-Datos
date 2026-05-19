@@ -10,7 +10,7 @@ Este repositorio contiene la fase práctica del proyecto final, centrada en el d
 ## 📹 Video de Defensa y Sustentación
 Puedes ver la explicación del código, la justificación de la complejidad Big O y la demostración del programa en ejecución en el siguiente enlace:
 
-👉 **[Ver Video de la Defensa en YouTube](TU_ENLACE_DE_YOUTUBE_AQUÍ)** *(Reemplaza este texto con tu link real)*
+👉 **[Ver Video de la Defensa en YouTube]https://youtu.be/MZ_wyCgbINs 
 
 ---
 
